@@ -1,13 +1,23 @@
-# 👋 Hi, I'm Amelia
+# 👋 Hi, I'm Amelia Gutierrez Miranda
 
-I'm a Sr. Technical Recruiter specializing in IT, AI, and emerging tech talent.  
-I'm passionate about using ethical AI tools, building diverse teams, and sharing what I learn.
+🎯 **Technical Recruiter | AI-Literate | Remote/Hybrid Talent Strategist**  
+Helping people land careers in tech, while exploring how AI can transform recruiting workflows and candidate experience.
 
-### 🔍 What You'll Find Here:
-- 📂 Resources for tech job seekers
-- 🤖 AI tools I’m learning for recruiting
-- 💡 Guides for non-technical professionals in tech
-- 🔗 My favorite GitHub repos for hiring inspiration
+---
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
-📬 [Linktree](https://linktr.ee/AmeliaTechRecruiter)
+### 💼 About Me
+- 5+ years recruiting IT professionals across Sacramento, the Bay Area, and beyond
+- Passionate about inclusive hiring, creative sourcing, and ethical tech use in recruiting
+- Currently upskilling in GitHub, AI tools (ChatGPT, Copilot, etc.), and prompt engineering
+
+---
+
+### 🧠 Current Focus
+- 📌 Building a **resource hub for job seekers in tech**
+- 🤖 Testing **AI recruiting workflows** (resume screening, outreach, ATS syncing)
+- 🧩 Exploring **open-source tools** relevant to hiring, automation, and sourcing
+
+---
+
+### 📁 Featured Repositories
+- [`ai-recruiting-tools`](https://github.com/AmeliaGutierrezMiranda/ai-recruiting-tools) — My ongoing list of AI tools and how I test/use them in recruitin
