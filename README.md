@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Amelia Gutierrez Miranda
 
-🎯 **Technical Recruiter | AI-Literate | Remote/Hybrid Talent Strategist**  
+**Technical Recruiter | AI-Literate | Remote/Hybrid Talent Strategist**  
 Helping people land careers in tech, while exploring how AI can transform recruiting workflows and candidate experience.
 
 ---
 
-### 💼 About Me
+### About Me
 - 10+ years of experience in staffing and recruitment across industries  
 - 5+ years specializing in IT/technical recruiting across Sacramento, the Bay Area, and beyond  
 - Passionate about inclusive hiring, creative sourcing, and ethical tech use in recruiting  
@@ -13,7 +13,7 @@ Helping people land careers in tech, while exploring how AI can transform recrui
 
 ---
 
-### 🧠 Current Focus
+### Current Focus
 - 📌 Building a **resource hub for job seekers in tech**
 - 🤖 Testing **AI recruiting workflows** (resume screening, outreach, ATS syncing)
 - 🧩 Exploring **open-source tools** relevant to hiring, automation, and sourcing
