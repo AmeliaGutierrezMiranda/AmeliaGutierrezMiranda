@@ -6,8 +6,9 @@ Helping people land careers in tech, while exploring how AI can transform recrui
 ---
 
 ### 💼 About Me
-- 5+ years recruiting IT professionals across Sacramento, the Bay Area, and beyond
-- Passionate about inclusive hiring, creative sourcing, and ethical tech use in recruiting
+- 10+ years of experience in staffing and recruitment across industries  
+- 5+ years specializing in IT/technical recruiting across Sacramento, the Bay Area, and beyond  
+- Passionate about inclusive hiring, creative sourcing, and ethical tech use in recruiting  
 - Currently upskilling in GitHub, AI tools (ChatGPT, Copilot, etc.), and prompt engineering
 
 ---
