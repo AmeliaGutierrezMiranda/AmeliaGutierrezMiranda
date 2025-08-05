@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Amelia
 
-<!--
-**AmeliaGutierrezMiranda/AmeliaGutierrezMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Sr. Technical Recruiter specializing in IT, AI, and emerging tech talent.  
+I'm passionate about using ethical AI tools, building diverse teams, and sharing what I learn.
 
-Here are some ideas to get you started:
+### 🔍 What You'll Find Here:
+- 📂 Resources for tech job seekers
+- 🤖 AI tools I’m learning for recruiting
+- 💡 Guides for non-technical professionals in tech
+- 🔗 My favorite GitHub repos for hiring inspiration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
+📬 [Linktree](https://linktr.ee/AmeliaTechRecruiter)
