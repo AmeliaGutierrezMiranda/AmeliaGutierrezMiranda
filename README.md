@@ -1,24 +1,20 @@
-# 👋 Hi, I'm Amelia Gutierrez Miranda
+# 🛠️ Industrial Talent Partner | Randstad Greater Phoenix
 
-**Technical Recruiter | AI-Literate | Remote/Hybrid Talent Strategist**  
-Helping people land careers in tech, while exploring how AI can transform recruiting workflows and candidate experience.
-
----
-
-### About Me
-- 10+ years of experience in staffing and recruitment across industries  
-- 5+ years specializing in IT/technical recruiting across Sacramento, the Bay Area, and beyond  
-- Passionate about inclusive hiring, creative sourcing, and ethical tech use in recruiting  
-- Currently upskilling in GitHub, AI tools (ChatGPT, Copilot, etc.), and prompt engineering
+### Connecting Skilled Trades to the "Silicon Desert" 🌵
+I specialize in bridging the gap between Arizona's top vocational graduates and the massive industrial expansions (Semiconductor, Manufacturing, Green Energy).
 
 ---
 
-### Current Focus
-- 📌 Building a **resource hub for job seekers in tech**
-- 🤖 Testing **AI recruiting workflows** (resume screening, outreach, ATS syncing)
-- 🧩 Exploring **open-source tools** relevant to hiring, automation, and sourcing
+### 🛠️ Currently Researching (Pending Review)
+- [ ] New HVAC-specific board (Alpha Test)
+- [ ] AI-Sourcing tool for Phoenix Industrial 
+- [ ] Local union-adjacent portal (Verification in progress)
 
----
+### ⚡ Expertise
+* **Sectors:** Semiconductor Fabs, Data Centers, Automated Manufacturing.
+* **Specialties:** Vocational Partnership, Workforce Development, AI-Literate Recruiting.
 
-### 📁 Featured Repositories
-- [`ai-recruiting-tools`](https://github.com/AmeliaGutierrezMiranda/ai-recruiting-tools) — My ongoing list of AI tools and how I test/use them in recruitin
+### 📂 Featured Project
+* [Job Board Resource Guide 2026](https://github.com/AmeliaGutierrezMiranda/Job-Board-Resource-Guide-2026) — My breakdown of the best tools for skilled trades.
+
+[LinkedIn](https://www.linkedin.com/in/ameliagutierrez/) | Based in Phoenix, AZ
