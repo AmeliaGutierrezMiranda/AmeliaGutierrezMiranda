@@ -1,4 +1,4 @@
-# 🛠️ Industrial Talent Partner | Randstad Greater Phoenix
+# 🛠️ Industrial Talent Partner | Greater Phoenix | Sun Corridor
 
 ### Connecting Skilled Trades to the "Silicon Desert" 🌵
 I specialize in bridging the gap between Arizona's top vocational graduates and the massive industrial expansions (Semiconductor, Manufacturing, Green Energy).
