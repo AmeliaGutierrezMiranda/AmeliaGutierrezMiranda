@@ -50,4 +50,9 @@ I ask questions. I listen to candidates. I learn the equipment and processes wel
 
 A resume is one source of information. A LinkedIn profile is another. Neither one represents the entire labor market.
 
+### Outside of Work
+
+🌵 Arizona based | 🇲🇽🇺🇸 Bilingual / bicultural / Pan-American  
+🎮 Recently started playing Pokémon — apparently I needed another system to learn, map and figure out. Very late to the game, literally.
+
 [LinkedIn](https://www.linkedin.com/in/ameliagutierrez/)
